@@ -3,6 +3,7 @@ Dependency:
 
 Package       Version
 ------------- --------
+
 numpy         1.16.4
 opencv-python 4.1.0.25
 Pillow        6.1.0
